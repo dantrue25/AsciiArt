@@ -9,6 +9,7 @@ Open the .sln file in Visual Studio
 Build the Solution
 
 To use from Visual Studio (debugging)
+* Add image file to *bin/Debug*
 * Add *Command line arguments* to the AsciiArt project
   * Right-click on the project AsciiArt and select _Properties_
   * Go to _Debug_
